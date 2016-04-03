@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ftp://2.esseo.com.au", "ftp://2.esseo.com.au", "{556E3553-5331-4249-B0F7-55A2668A7F7C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/2.esseo.com.au"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_2.esseo.com.au_seb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\2.esseo.com.au\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/2.esseo.com.au"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_2.esseo.com.au_seb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\2.esseo.com.au\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556E3553-5331-4249-B0F7-55A2668A7F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556E3553-5331-4249-B0F7-55A2668A7F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
